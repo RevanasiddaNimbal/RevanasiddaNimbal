@@ -1,6 +1,12 @@
-<div align="center">
+<div >
 
-<h1>👋 Hey there, I’m Revanasidda Nimbal </h1> </br>
+# 👋 Hey there, I’m Revanasidda Nimbal
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RevanasiddaNimbal&label=Profile%20views&color=0e75b6&style=flat" alt="RevanasiddaNimbal" />
+</p>
+
+
 
 💡 Turning ideas into reality with code  
 ⚡ A passionate creator who transforms challenges into opportunities  
@@ -22,7 +28,7 @@ C++ • NodeJS • React • MongoDB • Postgres • Express.js • CSS3 • HT
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div >
 
   <img src="https://github-readme-stats.vercel.app/api?username=RevanasiddaNimbal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>  
   <img src="https://nirzak-streak-stats.vercel.app/?user=RevanasiddaNimbal&theme=dark&hide_border=false" height="150"/>  
@@ -35,9 +41,5 @@ C++ • NodeJS • React • MongoDB • Postgres • Express.js • CSS3 • HT
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RevanasiddaNimbal&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
----
-
-### 👀 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=RevanasiddaNimbal&icon=1&color=0)  
 
 </div>
